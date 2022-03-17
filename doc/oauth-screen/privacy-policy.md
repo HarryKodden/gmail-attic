@@ -1,1 +1,0 @@
-# gmail-attic Privacy Policy for OAuth
